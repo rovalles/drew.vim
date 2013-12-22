@@ -37,3 +37,12 @@ hi Type	            guifg=#008000    ctermfg=002    gui=none          cterm=none
 hi Underlined	    guifg=#80a0ff    ctermfg=89     gui=underline     cterm=underline
 hi VertSplit	    guibg=#c2bfa5    ctermbg=07     guifg=#7777777    ctermfg=231        gui=none    cterm=none
 hi Visual	        guifg=#f0e68c    ctermfg=255    guibg=#6b8e23     ctermbg=242        gui=none    cterm=none
+
+hi htmlTag          guifg=#ffffff    ctermfg=034    gui=none          cterm=none
+hi htmlTagN         guifg=#00af00    ctermfg=034    gui=none          cterm=none
+hi htmlTagName      guifg=#00af00    ctermfg=034    gui=none          cterm=none
+hi htmlEndTag       guifg=#ffffff    ctermfg=015    gui=none          cterm=none
+hi htmlArg          guifg=#afd7ff    ctermfg=153    gui=none          cterm=none
+hi htmlLink         guifg=#ffffff    ctermfg=015    gui=none          cterm=none
+hi htmlString       guifg=#00ffff    ctermfg=169   gui=none          cterm=none
+
