@@ -62,3 +62,7 @@ hi cssClassName            guifg=#5faf5f    ctermfg=071    gui=none          cte
 
 " PHP
 hi phpRegion             guifg=#5faf5f    ctermfg=147    gui=none          cterm=none
+
+" Indent guides plugin
+hi IndentGuidesOdd  guibg=red   ctermbg=233
+hi IndentGuidesEven guibg=green ctermbg=232
