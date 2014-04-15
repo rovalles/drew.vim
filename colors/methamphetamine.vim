@@ -54,11 +54,33 @@ hi htmlString            guifg=#d75faf    ctermfg=169   gui=none          cterm=
 
 "Javascript
 hi javaScript              guifg=#005fd7    ctermfg=026    gui=none          cterm=none
+hi javaScriptBoolean       guifg=#005fd7    ctermfg=128    gui=none          cterm=none
 
 "CSS
-hi cssBraces               guifg=#5faf5f    ctermfg=071    gui=none          cterm=none
-hi cssTagName              guifg=#5faf5f    ctermfg=071    gui=none          cterm=none
-hi cssClassName            guifg=#5faf5f    ctermfg=071    gui=none          cterm=none
+hi cssImportant            guifg=#5faf5f    ctermfg=128    gui=none          cterm=none
+
+hi cssBraces               guifg=#5faf5f    ctermfg=026    gui=none          cterm=none
+hi cssSelectorOp           guifg=#5faf5f    ctermfg=026    gui=none          cterm=none
+hi cssTagName              guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssTextProp             guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssUIProp               guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssDimensionProp        guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssPositioningProp      guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssBackgroundProp       guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssBorderOutlineProp    guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssBoxProp              guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssPaddingProp          guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssClassName            guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssIdentifier           guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssPositioningAttr      guifg=#5faf5f    ctermfg=015    gui=none          cterm=none
+hi cssUIAttr               guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssValueLength          guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssBorderOutlineAttr    guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssCommonAttr           guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssValueNumber          guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssColor                guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssTextAttr             guifg=#5faf5f    ctermfg=227    gui=none          cterm=none
+hi cssBoxAttr              guifg=#5faf5f     ctermfg=227    gui=none          cterm=none
 
 " PHP
 hi phpRegion             guifg=#5faf5f    ctermfg=147    gui=none          cterm=none
