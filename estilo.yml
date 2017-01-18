@@ -5,6 +5,6 @@ author: 'Rodolfo Ovalles'
 url: 'https://github.com/rovalles/methamphetamine.vim'
 description: 'Made a colorscheme.'
 colorschemes:
-  - name: methamphetamine.vim
+  - name: methamphetamine
     background: 'dark'
     palette: methamphetamine.vim
