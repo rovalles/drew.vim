@@ -15,7 +15,7 @@ yamlFlowStringDelimiter: '' # yamlString
 yamlEscape: '' # SpecialChar
 yamlSingleEscape: '' # SpecialChar
 yamlBlockCollectionItemStart: '' # Label
-yamlBlockMappingKey: '' # Identifier
+yamlBlockMappingKey: 'White' # Identifier
 yamlBlockMappingMerge: '' # Special
 yamlFlowMappingKey: '' # Identifier
 yamlFlowMappingMerge: '' # Special

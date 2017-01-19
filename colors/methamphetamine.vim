@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/methamphetamine.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/18 10:16
+" Last Change: 2017/01/19 10:55
 " ===============================================================
 
 set background=dark
@@ -14,12 +14,19 @@ if exists("syntax_on")
 endif
 let g:colors_name="methamphetamine"
 
-hi javaScriptComment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javaScriptLineComment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javaScriptCommentTodo guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javaScriptFunction guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Cursor guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Folded guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LineNr guifg=#757575 ctermfg=243 guibg=#212121 ctermbg=234 gui=NONE cterm=NONE
+hi Normal guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Comment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#ffff99 ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Character guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Function guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Statement guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialComment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptBraces guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptIdentifier guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi yamlBlockMappingKey guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
 " ===================================

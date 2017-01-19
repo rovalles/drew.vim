@@ -1,7 +1,7 @@
 # BASE UI
 ColorColumn: ''
 Conceal: ''
-Cursor: ''
+Cursor: 'White'
 CursorIM: ''
 CursorColumn: ''
 CursorLine: ''
@@ -12,16 +12,16 @@ DiffDelete: ''
 DiffText: ''
 ErrorMsg: ''
 VertSplit: ''
-Folded: ''
+Folded: 'White'
 FoldColumn: ''
 SignColumn: ''
 IncSearch: ''
-LineNr: ''
+LineNr: 'Gray DarkGray'
 MatchParen: ''
 ModeMsg: ''
 MoreMsg: ''
 NonText: ''
-Normal: ''
+Normal: 'White'
 PMenu: ''
 PMenuSel: ''
 PmenuSbar: ''
@@ -44,16 +44,16 @@ VisualNOS: ''
 WarningMsg: ''
 WildMenu: ''
 # BASE SYNTAX
-Comment: ''
+Comment: 'Gray'
 Constant: ''
-String: '' # Constant
-Character: '' # Constant
+String: 'Yellow' # Constant
+Character: 'Blue' # Constant
 Boolean: '' # Constant
 Number: '' # Constant
 Float: '' # Constant
 Identifier: ''
-Function: '' # Identifier
-Statement: ''
+Function: 'DarkBlue' # Identifier
+Statement: 'Red'
 Conditional: '' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
@@ -73,7 +73,7 @@ Special: ''
 SpecialChar: '' # Special
 Tag: '' # Special
 Delimiter: '' # Special
-SpecialComment: '' # Special
+SpecialComment: 'Gray' # Special
 Debug: '' # Special
 Underlined: ''
 Ignore: ''
