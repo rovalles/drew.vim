@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/methamphetamine.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/20 10:50
+" Last Change: 2017/01/20 10:57
 " ===============================================================
 
 set background=dark
@@ -17,6 +17,7 @@ let g:colors_name="methamphetamine"
 hi Cursor guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LineNr guifg=#757575 ctermfg=243 guibg=#131515 ctermbg=233 gui=NONE cterm=NONE
+hi MatchParen guifg=#000000 ctermfg=0 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 hi NonText guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PMenu guifg=#131515 ctermfg=233 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
