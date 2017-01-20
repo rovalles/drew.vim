@@ -7,5 +7,6 @@ methamphetamine.vim
 
 ##Dependencies
 https://github.com/jelera/vim-javascript-syntax
+
 https://github.com/nathanaelkane/vim-indent-guides.git
 
