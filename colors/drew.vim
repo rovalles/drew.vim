@@ -1,10 +1,10 @@
 " ===============================================================
-" methamphetamine
+" drew
 " 
-" URL: https://github.com/rovalles/methamphetamine.vim
+" URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/20 10:57
+" Last Change: 2017/01/20 11:04
 " ===============================================================
 
 set background=dark
@@ -12,7 +12,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name="methamphetamine"
+let g:colors_name="drew"
 
 hi Cursor guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

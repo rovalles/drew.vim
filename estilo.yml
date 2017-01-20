@@ -1,10 +1,10 @@
-name: 'methamphetamine.vim'
+name: 'drew.vim'
 version: '1.0.0'
 license: 'MIT'
 author: 'Rodolfo Ovalles'
-url: 'https://github.com/rovalles/methamphetamine.vim'
+url: 'https://github.com/rovalles/drew.vim'
 description: 'Made a colorscheme.'
 colorschemes:
-  - name: methamphetamine
+  - name: drew
     background: 'dark'
-    palette: methamphetamine.vim
+    palette: drew.vim
