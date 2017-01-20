@@ -7,7 +7,7 @@ if exists("syntax_on")
     syntax reset
 endif
 set t_Co=256
-let colors_name = "methamphetamine"
+let colors_name = "drew"
 
 
 hi Comment          guifg=#00afff    ctermfg=246    gui=bold          cterm=bold
