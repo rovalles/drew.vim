@@ -1,8 +1,7 @@
-methamphetamine.vim
+drew.vim
 ===================
 
-Vim color scheme
-C10H15N 
+Vim Color Scheme
 
 *Incomplete...*
 
