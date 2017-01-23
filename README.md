@@ -11,3 +11,5 @@ drew.vim
 
 #Support (for now)
 - Javascript
+- Markdown
+- HTML

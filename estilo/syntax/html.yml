@@ -1,8 +1,8 @@
-htmlTag: '' # Function
-htmlEndTag: '' # Identifier
-htmlArg: '' # Type
-htmlTagName: '' # htmlStatement
-htmlSpecialTagName: '' # Exception
+htmlTag: 'Blue' # Function
+htmlEndTag: 'Blue' # Identifier
+htmlArg: 'Blue' # Type
+htmlTagName: 'White' # htmlStatement
+htmlSpecialTagName: 'White' # Exception
 htmlValue: '' # String
 htmlH1: '' # Title
 htmlH2: '' # htmlH1
@@ -11,7 +11,7 @@ htmlH4: '' # htmlH3
 htmlH5: '' # htmlH4
 htmlH6: '' # htmlH5
 htmlHead: '' # PreProc
-htmlTitle: '' # Title
+htmlTitle: 'White' # Title
 htmlBoldItalicUnderline: '' # htmlBoldUnderlineItalic
 htmlUnderlineBold: '' # htmlBoldUnderline
 htmlUnderlineItalicBold: '' # htmlBoldUnderlineItalic
@@ -38,7 +38,8 @@ htmlCommentError: '' # htmlError
 htmlTagError: '' # htmlError
 htmlEvent: '' # javaScript
 htmlError: '' # Error
-javaScript: '' # Special
+javaScript: 'Blue' # Special
 javaScriptExpression: '' # javaScript
 htmlCssStyleComment: '' # Comment
 htmlCssDefinition: '' # Special
+htmlScriptTag: 'Blue'

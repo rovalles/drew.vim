@@ -1,17 +1,17 @@
 {
-  "name": "methamphetamine.vim",
+  "name": "drew.vim",
   "version": "1.0.0",
-  "description": "methamphetamine.vim ===================",
+  "description": "drew.vim ===================",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rovalles/methamphetamine.vim.git"
+    "url": "git+https://github.com/rovalles/drew.vim.git"
   },
   "scripts": {
     "watch": "watch 'estilo render' estilo/"
   },
   "author": "Rodolfo Ovalles",
   "license": "ISC",
-  "homepage": "https://github.com/rovalles/methamphetamine.vim#readme",
+  "homepage": "https://github.com/rovalles/drew.vim#readme",
   "dependencies": {
     "watch": "^1.0.1"
   }
