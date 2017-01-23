@@ -1,3 +1,5 @@
+cssDefinition: 'Green'
+cssAttrRegion: 'Green'
 cssComment: '' # Comment
 cssVendor: '' # Comment
 cssHacks: '' # Comment
@@ -38,7 +40,7 @@ cssRenderProp: '' # cssProp
 cssMobileTextProp: '' # cssProp
 cssAnimationAttr: '' # cssAttr
 cssBackgroundAttr: '' # cssAttr
-cssBorderAttr: '' # cssAttr
+cssBorderAttr: 'Green' # cssAttr
 cssBoxAttr: '' # cssAttr
 cssContentForPagedMediaAttr: '' # cssAttr
 cssDimensionAttr: '' # cssAttr
@@ -67,9 +69,9 @@ cssUIAttr: '' # cssAttr
 cssIEUIAttr: '' # cssAttr
 cssAuralAttr: '' # cssAttr
 cssRenderAttr: '' # cssAttr
-cssCommonAttr: '' # cssAttr
-cssPseudoClassId: '' # PreProc
-cssPseudoClassLang: '' # Constant
+cssCommonAttr: 'Green' # cssAttr
+cssPseudoClassId: 'Red' # PreProc
+cssPseudoClassLang: 'Red' # Constant
 cssValueLength: '' # Number
 cssValueInteger: '' # Number
 cssValueNumber: '' # Number
@@ -80,10 +82,10 @@ cssFunction: '' # Constant
 cssURL: '' # String
 cssFunctionName: '' # Function
 cssFunctionComma: '' # Function
-cssColor: '' # Constant
-cssIdentifier: '' # Function
-cssInclude: '' # Include
-cssIncludeKeyword: '' # atKeyword
+cssColor: 'Green' # Constant
+cssIdentifier: 'White' # Function
+cssInclude: 'Red' # Include
+cssIncludeKeyword: 'Red' # atKeyword
 cssImportant: '' # Special
 cssBraces: '' # Function
 cssBraceError: '' # Error
@@ -104,15 +106,16 @@ cssPageMargin: '' # atKeyword
 cssPageProp: '' # cssProp
 cssKeyFrame: '' # atKeyword
 cssKeyFrameSelector: '' # Constant
-cssFontDescriptor: '' # Special
+cssFontDescriptor: 'Red' # Special
 cssFontDescriptorFunction: '' # Constant
 cssFontDescriptorProp: '' # cssProp
 cssFontDescriptorAttr: '' # cssAttr
 cssUnicodeRange: '' # Constant
-cssClassName: '' # Function
-cssClassNameDot: '' # Function
-cssProp: '' # StorageClass
+cssClassName: 'White' # Function
+cssClassNameDot: 'Blue' # Function
+cssProp: 'White' # StorageClass
 cssAttr: '' # Constant
-cssUnitDecorators: '' # Number
+cssUnitDecorators: 'Green' # Number
 cssNoise: '' # Noise
 atKeyword: '' # PreProc
+

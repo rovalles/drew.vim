@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/23 09:52
+" Last Change: 2017/01/23 10:28
 " ===============================================================
 
 set background=dark
@@ -30,6 +30,21 @@ hi Function guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpecialComment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IndentGuidesOdd guifg=#000000 ctermfg=0 guibg=#0A0A0A ctermbg=232 gui=NONE cterm=NONE
+hi cssDefinition guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssAttrRegion guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssBorderAttr guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssCommonAttr guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssPseudoClassId guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssPseudoClassLang guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssColor guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssIdentifier guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssInclude guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssIncludeKeyword guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssFontDescriptor guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssClassName guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssClassNameDot guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssProp guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssUnitDecorators guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlTag guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlEndTag guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlArg guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
