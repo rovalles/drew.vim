@@ -9,8 +9,9 @@ drew.vim
 - https://github.com/jelera/vim-javascript-syntax
 - https://github.com/nathanaelkane/vim-indent-guides.git
 
-#Support (for now)
+#Support (For now. I think.)
 - Javascript
 - Markdown
 - HTML
 - CSS
+- NerdTree
