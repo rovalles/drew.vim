@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/24 11:28
+" Last Change: 2017/01/25 10:27
 " ===============================================================
 
 set background=dark
@@ -76,6 +76,8 @@ hi javaScriptFloat guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cte
 hi javaScriptBrowserObjects guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptWebAPI guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptEventListenerKeywords guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsonBraces guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsonKeyword guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownH1 guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownH2 guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownH3 guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

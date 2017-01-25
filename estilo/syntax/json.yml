@@ -3,10 +3,10 @@ jsonString: '' # String
 jsonTest: '' # Label
 jsonEscape: '' # Special
 jsonNumber: '' # Number
-jsonBraces: '' # Delimiter
+jsonBraces: 'Blue' # Delimiter
 jsonNull: '' # Function
 jsonBoolean: '' # Boolean
-jsonKeyword: '' # Label
+jsonKeyword: 'White' # Label
 jsonNumError: '' # Error
 jsonCommentError: '' # Error
 jsonSemicolonError: '' # Error
