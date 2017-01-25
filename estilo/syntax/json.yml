@@ -2,18 +2,18 @@ jsonPadding: '' # Operator
 jsonString: '' # String
 jsonTest: '' # Label
 jsonEscape: '' # Special
-jsonNumber: '' # Number
+jsonNumber: 'Green' # Number
 jsonBraces: 'Blue' # Delimiter
 jsonNull: '' # Function
-jsonBoolean: '' # Boolean
+jsonBoolean: 'Green' # Boolean
 jsonKeyword: 'White' # Label
 jsonNumError: '' # Error
-jsonCommentError: '' # Error
-jsonSemicolonError: '' # Error
-jsonTrailingCommaError: '' # Error
+jsonCommentError: 'Black LightGray' # Error
+jsonSemicolonError: 'Black LightGray' # Error
+jsonTrailingCommaError: 'Black LightGray' # Error
 jsonMissingCommaError: '' # Error
 jsonStringSQError: '' # Error
-jsonNoQuotesError: '' # Error
+jsonNoQuotesError: 'Black LightGray' # Error
 jsonTripleQuotesError: '' # Error
 jsonQuote: '' # Quote
-jsonNoise: '' # Noise
+jsonNoise: 'Red' # Noise
