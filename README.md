@@ -1,15 +1,15 @@
 drew.vim
 ===================
 
-#Vim Color Scheme
+###Vim Color Scheme
 
 *Incomplete...*
 
-##Dependencies
+###Dependencies
 - https://github.com/jelera/vim-javascript-syntax
 - https://github.com/nathanaelkane/vim-indent-guides.git
 
-#Support (For now. I think.)
+###Support (For now. I think.)
 - Javascript
 - Markdown
 - HTML
@@ -18,5 +18,5 @@ drew.vim
 - Typescript
 - JSON
 
-#Compile Template
+###Compile Template
 `npm run watch`
