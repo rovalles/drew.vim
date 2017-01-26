@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/01/25 10:46
+" Last Change: 2017/01/25 17:05
 " ===============================================================
 
 set background=dark
@@ -109,6 +109,7 @@ hi typescriptIdentifier guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NON
 hi typescriptBoolean guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptHtmlElemProperties guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptNull guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi typescriptBrowserObjects guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlBlockMappingKey guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
