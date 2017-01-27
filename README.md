@@ -17,6 +17,7 @@ drew.vim
 - NerdTree
 - Typescript
 - JSON
+- YAML
 
 ###Compile Template
 `npm run watch`
