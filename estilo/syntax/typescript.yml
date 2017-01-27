@@ -1,0 +1,7 @@
+typescriptDecorators: 'Red'
+typescriptType: 'Green'
+typescriptIdentifier: 'Green'
+typescriptBoolean: 'Green'
+typescriptHtmlElemProperties: 'Green'
+typescriptNull: 'Green'
+typescriptBrowserObjects: 'Green'

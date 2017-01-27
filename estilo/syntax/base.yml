@@ -1,0 +1,83 @@
+# BASE UI
+ColorColumn: ''
+Conceal: ''
+Cursor: 'White'
+CursorIM: ''
+CursorColumn: ''
+CursorLine: ''
+Directory: ''
+DiffAdd: ''
+DiffChange: ''
+DiffDelete: ''
+DiffText: ''
+ErrorMsg: ''
+VertSplit: ''
+Folded: 'White'
+FoldColumn: ''
+SignColumn: ''
+IncSearch: ''
+LineNr: 'Gray LightBlack'
+MatchParen: 'Black White'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'Gray'
+Normal: 'White'
+PMenu: 'LightBlack White'
+PMenuSel: 'White Black'
+PmenuSbar: ''
+PmenuThumb: ''
+Question: ''
+Search: ''
+SpecialKey: ''
+SpellBad: ''
+SpellLocal: ''
+SpellCap: ''
+SpellRare: ''
+StatusLine: ''
+StatusLineNC: ''
+TabLine: ''
+TabLineFill: ''
+TabLineSel: ''
+Title: ''
+Visual: 'Black White'
+VisualNOS: ''
+WarningMsg: ''
+WildMenu: ''
+# BASE SYNTAX
+Comment: 'Gray'
+Constant: ''
+String: 'Yellow' # Constant
+Character: 'Blue' # Constant
+Boolean: '' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: ''
+Function: 'DarkBlue' # Identifier
+Statement: 'Red'
+Conditional: '' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: '' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: ''
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: ''
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: ''
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: 'Gray' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: ''
+Todo: ''
+#IdentGuides
+IndentGuidesOdd: 'Black MidBlack'

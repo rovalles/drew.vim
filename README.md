@@ -1,8 +1,23 @@
 drew.vim
 ===================
 
-Vim Color Scheme
+###Vim Color Scheme
 
 *Incomplete...*
 
-> Just because you shot Jesse James, don't make you Jesse James.
+###Dependencies
+- https://github.com/jelera/vim-javascript-syntax
+- https://github.com/nathanaelkane/vim-indent-guides.git
+
+###Support (For now. I think.)
+- Javascript
+- Markdown
+- HTML
+- CSS
+- NerdTree
+- Typescript
+- JSON
+- YAML
+
+###Compile Template
+`npm run watch`

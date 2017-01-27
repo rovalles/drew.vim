@@ -1,0 +1,42 @@
+javaScriptComment: '' # Comment
+javaScriptLineComment: '' # Comment
+javaScriptCommentTodo: '' # Todo
+javaScriptSpecial: '' # Special
+javaScriptStringS: '' # String
+javaScriptStringD: '' # String
+javaScriptCharacter: '' # Character
+javaScriptSpecialCharacter: '' # javaScriptSpecial
+javaScriptNumber: 'Green' # javaScriptValue
+javaScriptConditional: '' # Conditional
+javaScriptRepeat: '' # Repeat
+javaScriptBranch: '' # Conditional
+javaScriptOperator: '' # Operator
+javaScriptType: '' # Type
+javaScriptStatement: 'Green' # Statement
+javaScriptFunction: '' # Function
+javaScriptError: '' # Error
+javaScriptParensError: '' # Error
+javaScriptNull: '' # Keyword
+javaScriptBoolean: 'Green' # Boolean
+javaScriptRegexpString: 'Green' # String
+javaScriptLabel: '' # Label
+javaScriptException: '' # Exception
+javaScriptMessage: '' # Keyword
+javaScriptGlobal: '' # Keyword
+javaScriptMember: '' # Keyword
+javaScriptDeprecated: '' # Exception
+javaScriptDebug: '' # Debug
+javaScriptConstant: '' # Label
+javaScriptFuncExp: 'White'
+javaScriptReserved: 'Green' # Keyword
+javaScriptFuncArg: 'Green'
+javaScriptIdentifier: 'Green'
+javaScriptLogicSymbols: 'DarkBlue'
+javaScriptOpSymbols: 'DarkBlue'
+javaScriptBraces: 'Red'
+javaScriptFuncDef: 'White'
+javaScriptGlobalObjects: 'Green'
+javaScriptFloat: 'Green'
+javaScriptBrowserObjects: 'Green'
+javaScriptWebAPI: 'LightBlue'
+javaScriptEventListenerKeywords: 'White'
