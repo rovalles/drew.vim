@@ -19,6 +19,7 @@ drew.vim
 - JSON
 - YAML
 - PHP
+- vim
 
 ###Compile Template
 `npm run watch`
