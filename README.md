@@ -18,6 +18,7 @@ drew.vim
 - Typescript
 - JSON
 - YAML
+- PHP
 
 ###Compile Template
 `npm run watch`

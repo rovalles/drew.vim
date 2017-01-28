@@ -1,21 +1,25 @@
-phpConstant: '' # Constant
+Delimiter: 'Blue'
+phpClasses: 'White'
+phpComparison: 'Blue'
+phpRegion: ''
+phpConstant: 'Green' # Constant
 phpCoreConstant: '' # Constant
 phpComment: '' # Comment
 phpDocTags: '' # PreProc
 phpDocCustomTags: '' # Type
 phpException: '' # Exception
 phpBoolean: '' # Boolean
-phpStorageClass: '' # StorageClass
+phpStorageClass: 'Red' # StorageClass
 phpSCKeyword: '' # StorageClass
 phpFCKeyword: '' # Define
-phpStructure: '' # Structure
+phpStructure: 'Green' # Structure
 phpStringSingle: '' # String
 phpStringDouble: '' # String
 phpBacktick: '' # String
-phpNumber: '' # Number
-phpFloat: '' # Float
-phpMethods: '' # Function
-phpFunctions: '' # Function
+phpNumber: 'Green' # Number
+phpFloat: 'Green' # Float
+phpMethods: 'White' # Function
+phpFunctions: 'Green' # Function
 phpBaselib: '' # Function
 phpRepeat: '' # Repeat
 phpConditional: '' # Conditional
@@ -23,12 +27,12 @@ phpLabel: '' # Label
 phpStatement: '' # Statement
 phpKeyword: '' # Statement
 phpType: '' # Type
-phpInclude: '' # Include
-phpDefine: '' # Define
+phpInclude: 'Red' # Include
+phpDefine: 'Blue' # Define
 phpBackslashSequences: '' # SpecialChar
 phpBackslashDoubleQuote: '' # SpecialChar
 phpBackslashSingleQuote: '' # SpecialChar
-phpParent: '' # Delimiter
+phpParent: 'Red' # Delimiter
 phpBrackets: '' # Delimiter
 phpIdentifierConst: '' # Delimiter
 phpParentError: '' # Error
@@ -42,11 +46,11 @@ phpInterpSimpleCurly: '' # Delimiter
 phpInterpVarname: '' # Identifier
 phpTodo: '' # Todo
 phpDocTodo: '' # Todo
-phpMemberSelector: '' # Structure
-phpIntVar: '' # Identifier
+phpMemberSelector: 'Green' # Structure
+phpIntVar: 'Green' # Identifier
 phpEnvVar: '' # Identifier
-phpOperator: '' # Operator
-phpVarSelector: '' # Operator
+phpOperator: 'Blue' # Operator
+phpVarSelector: 'White' # Operator
 phpRelation: '' # Operator
-phpIdentifier: '' # Identifier
+phpIdentifier: 'White' # Identifier
 phpIdentifierSimply: '' # Identifier
