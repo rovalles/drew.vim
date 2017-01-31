@@ -2,22 +2,22 @@ shArithRegion: '' # shShellVariables
 shAtExpr: '' # shSetList
 shBeginHere: '' # shRedir
 shCaseBar: '' # shConditional
-shCaseCommandSub: '' # shCommandSub
+shCaseCommandSub: 'Green' # shCommandSub
 shCaseDoubleQuote: '' # shDoubleQuote
 shCaseIn: '' # shConditional
-shQuote: '' # shOperator
+shQuote: 'Yellow' # shOperator
 shCaseSingleQuote: '' # shSingleQuote
 shCaseStart: '' # shConditional
-shCmdSubRegion: '' # shShellVariables
+shCmdSubRegion: 'Blue' # shShellVariables
 shColon: '' # shComment
 shDerefOp: '' # shOperator
 shDerefPOL: '' # shDerefOp
 shDerefPPS: '' # shDerefOp
 shDeref: '' # shShellVariables
 shDerefDelim: '' # shOperator
-shDerefSimple: '' # shDeref
+shDerefSimple: 'Green' # shDeref
 shDerefSpecial: '' # shDeref
-shDerefString: '' # shDoubleQuote
+shDerefString: 'Yellow' # shDoubleQuote
 shDerefVar: '' # shDeref
 shDoubleQuote: '' # shString
 shEcho: '' # shString
@@ -28,6 +28,7 @@ shEmbeddedEcho: '' # shString
 shEscape: '' # shCommandSub
 shExDoubleQuote: '' # shDoubleQuote
 shExSingleQuote: '' # shSingleQuote
+shFunctionTwo: ''
 shFunction: '' # Function
 shHereDoc: '' # shString
 shHerePayload: '' # shHereDoc
@@ -50,7 +51,8 @@ shTestOpr: '' # shConditional
 shTestPattern: '' # shString
 shTestDoubleQuote: '' # shString
 shTestSingleQuote: '' # shString
-shVariable: '' # shSetList
+shVariable: 'White' # shSetList
+shVarAssign: 'Red'
 shWrapLineOperator: '' # shOperator
 bashAdminStatement: '' # shStatement if exists("b:is_bash")
 bashSpecialVariables: '' # shShellVariables if exists("b:is_bash")
@@ -82,11 +84,11 @@ shCtrlSeq: '' # Special
 shExprRegion: '' # Delimiter
 shFunctionKey: '' # Function
 shFunctionName: '' # Function
-shNumber: '' # Number
+shNumber: 'Green' # Number
 shOperator: '' # Operator
 shRepeat: '' # Repeat
 shSet: '' # Statement
-shSetList: '' # Identifier
+shSetList: 'White' # Identifier
 shShellVariables: '' # PreProc
 shSpecial: '' # Special
 shStatement: '' # Statement
