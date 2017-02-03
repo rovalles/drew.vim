@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/02/02 10:38
+" Last Change: 2017/02/03 12:11
 " ===============================================================
 
 set background=dark
@@ -97,6 +97,14 @@ hi markdownCodeDelimiter guifg=#bdbdbd ctermfg=250 guibg=NONE ctermbg=NONE gui=N
 hi markdownCode guifg=#bdbdbd ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeExecFile guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDirSlash guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelp guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpKey guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpCommand guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpTitle guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeToggleOn guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeToggleOff guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeLinkTarget guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeLinkFile guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDir guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeUp guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeFile guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
