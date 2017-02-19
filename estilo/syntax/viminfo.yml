@@ -1,3 +1,5 @@
 viminfoComment: '' # Comment
 viminfoError: '' # Error
 viminfoStatement: '' # Statement
+SignColumn: 'Black'
+SignatureMarkText: 'DarkBlue'

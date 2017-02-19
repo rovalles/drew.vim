@@ -8,6 +8,7 @@ drew.vim
 ###Dependencies
 - https://github.com/jelera/vim-javascript-syntax
 - https://github.com/nathanaelkane/vim-indent-guides.git
+- https://github.com/kshenoy/vim-signature
 
 ###Support (For now. I think.)
 - Javascript
