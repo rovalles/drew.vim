@@ -7,7 +7,8 @@
     "url": "git+https://github.com/rovalles/drew.vim.git"
   },
   "scripts": {
-    "watch": "watch 'estilo render' estilo/"
+    "watch": "watch 'estilo render' estilo/",
+    "start": "npm run watch"
   },
   "author": "Rodolfo Ovalles",
   "license": "ISC",
