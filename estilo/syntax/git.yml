@@ -17,3 +17,7 @@ gitStage: '' # gitType
 gitType: '' # Type
 gitDiffAdded: '' # diffAdded
 gitDiffRemoved: '' # diffRemoved
+gitconfigSection: 'LightBlue'
+gitconfigVariable: 'White'
+gitconfigNumber: 'White'
+gitconfigBoolean: 'White'

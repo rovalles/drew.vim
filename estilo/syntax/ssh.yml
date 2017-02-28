@@ -1,0 +1,6 @@
+sshconfigMatch: 'Blue'
+sshconfigHostPort: 'White'
+sshconfigKeyword: 'LightBlue'
+sshconfigNumber: 'White'
+sshconfigYesNo: 'White'
+sshconfigVar: 'Green'

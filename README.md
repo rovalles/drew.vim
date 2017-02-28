@@ -21,6 +21,9 @@ drew.vim
 - YAML
 - PHP
 - vim
+- ssh 
+- git 
 
 ###Compile Template
+`npm start`
 `npm run watch`
