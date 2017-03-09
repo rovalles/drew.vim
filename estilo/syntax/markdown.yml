@@ -10,11 +10,11 @@ markdownOrderedListMarker: '' # markdownListMarker
 markdownListMarker: '' # htmlTagName
 markdownBlockquote: 'Blue' # Comment
 markdownRule: '' # PreProc
-markdownLinkText: '' # htmlLink
+markdownLinkText: 'DarkBlue' # htmlLink
 markdownIdDeclaration: '' # Typedef
 markdownId: '' # Type
 markdownAutomaticLink: '' # markdownUrl
-markdownUrl: '' # Float
+markdownUrl: 'Yellow' # Float
 markdownUrlTitle: '' # String
 markdownIdDelimiter: '' # markdownLinkDelimiter
 markdownUrlDelimiter: '' # htmlTag
