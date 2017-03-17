@@ -1,9 +1,9 @@
-cssDefinition: 'Green'
-cssAttrRegion: 'Green'
+cssDefinition: 'LightBlue'
+cssAttrRegion: 'Red'
 cssComment: '' # Comment
-cssVendor: '' # Comment
+cssVendor: 'LightGray' # Comment
 cssHacks: '' # Comment
-cssTagName: '' # Statement
+cssTagName: 'White' # Statement
 cssDeprecated: '' # Error
 cssSelectorOp: '' # Special
 cssSelectorOp2: '' # Special
@@ -38,14 +38,14 @@ cssIEUIProp: '' # cssProp
 cssAuralProp: '' # cssProp
 cssRenderProp: '' # cssProp
 cssMobileTextProp: '' # cssProp
-cssAnimationAttr: '' # cssAttr
-cssBackgroundAttr: '' # cssAttr
-cssBorderAttr: 'Green' # cssAttr
-cssBoxAttr: '' # cssAttr
+cssAnimationAttr: 'LightBlue' # cssAttr
+cssBackgroundAttr: 'LightBlue' # cssAttr
+cssBorderAttr: 'LightBlue' # cssAttr
+cssBoxAttr: 'LightBlue' # cssAttr
 cssContentForPagedMediaAttr: '' # cssAttr
 cssDimensionAttr: '' # cssAttr
 cssFlexibleBoxAttr: '' # cssAttr
-cssFontAttr: '' # cssAttr
+cssFontAttr: 'Yellow' # cssAttr
 cssGeneratedContentAttr: '' # cssAttr
 cssGridAttr: '' # cssAttr
 cssHyerlinkAttr: '' # cssAttr
@@ -56,37 +56,38 @@ cssMarqueeAttr: '' # cssAttr
 cssMultiColumnAttr: '' # cssAttr
 cssPaddingAttr: '' # cssAttr
 cssPagedMediaAttr: '' # cssAttr
-cssPositioningAttr: '' # cssAttr
-cssGradientAttr: '' # cssAttr
+cssPositioningAttr: 'LightBlue' # cssAttr
+cssGradientAttr: 'LightBlue' # cssAttr
 cssPrintAttr: '' # cssAttr
 cssRubyAttr: '' # cssAttr
 cssSpeechAttr: '' # cssAttr
-cssTableAttr: '' # cssAttr
-cssTextAttr: '' # cssAttr
+cssTableAttr: 'LightBlue' # cssAttr
+cssTextAttr: 'LightBlue' # cssAttr
 cssTransformAttr: '' # cssAttr
 cssTransitionAttr: '' # cssAttr
-cssUIAttr: '' # cssAttr
+cssUIAttr: 'LightBlue' # cssAttr
 cssIEUIAttr: '' # cssAttr
 cssAuralAttr: '' # cssAttr
 cssRenderAttr: '' # cssAttr
-cssCommonAttr: 'Green' # cssAttr
-cssPseudoClassId: 'Red' # PreProc
+cssCommonAttr: 'LightBlue' # cssAttr
+cssPseudoClassId: 'White' # PreProc
 cssPseudoClassLang: 'Red' # Constant
-cssValueLength: '' # Number
+cssValueLength: 'LightBlue' # Number
 cssValueInteger: '' # Number
-cssValueNumber: '' # Number
-cssValueAngle: '' # Number
-cssValueTime: '' # Number
+cssValueNumber: 'LightBlue' # Number
+cssValueAngle: 'LightBlue' # Number
+cssValueTime: 'LightBlue' # Number
 cssValueFrequency: '' # Number
-cssFunction: '' # Constant
+cssFunction: 'Red' # Constant
 cssURL: '' # String
-cssFunctionName: '' # Function
+cssFunctionName: 'Blue' # Function
 cssFunctionComma: '' # Function
-cssColor: 'Green' # Constant
+cssColor: 'LightBlue' # Constant
 cssIdentifier: 'White' # Function
 cssInclude: 'Red' # Include
 cssIncludeKeyword: 'Red' # atKeyword
-cssImportant: '' # Special
+cssImportant: 'Red' # Special
+cssFontDescriptorBlock: 'Yellow'
 cssBraces: '' # Function
 cssBraceError: '' # Error
 cssError: '' # Error
@@ -105,7 +106,7 @@ cssPagePseudo: '' # PreProc
 cssPageMargin: '' # atKeyword
 cssPageProp: '' # cssProp
 cssKeyFrame: '' # atKeyword
-cssKeyFrameSelector: '' # Constant
+cssKeyFrameSelector: 'Green' # Constant
 cssFontDescriptor: 'Red' # Special
 cssFontDescriptorFunction: '' # Constant
 cssFontDescriptorProp: '' # cssProp
@@ -115,7 +116,7 @@ cssClassName: 'White' # Function
 cssClassNameDot: 'Blue' # Function
 cssProp: 'White' # StorageClass
 cssAttr: '' # Constant
-cssUnitDecorators: 'Green' # Number
-cssNoise: '' # Noise
+cssUnitDecorators: 'Red' # Number
+cssNoise: 'Blue' # Noise
 atKeyword: '' # PreProc
 
