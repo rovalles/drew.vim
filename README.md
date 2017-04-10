@@ -23,6 +23,7 @@ drew.vim
 - vim
 - ssh 
 - git 
+- editorconfig
 
 ###Compile Template
 `npm start`
