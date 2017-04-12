@@ -28,7 +28,7 @@ PmenuSbar: ''
 PmenuThumb: ''
 Question: ''
 Search: ''
-SpecialKey: 'Gray'
+SpecialKey: 'SlightGray' #show spaces(set list lcs=tab:__)
 SpellBad: ''
 SpellLocal: ''
 SpellCap: ''
