@@ -81,3 +81,5 @@ Error: ''
 Todo: ''
 #IdentGuides
 IndentGuidesOdd: 'Black MidBlack'
+#help
+helpCommand: 'Accent'
