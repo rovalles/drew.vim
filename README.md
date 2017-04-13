@@ -3,7 +3,7 @@ drew.vim
 
 ### Vim Color Scheme
 
-*Incomplete...*
+*As complete as I can make it.*
 
 ### Dependencies
 - https://github.com/jelera/vim-javascript-syntax
@@ -24,6 +24,8 @@ drew.vim
 - ssh 
 - git 
 - editorconfig
+- vim-startify
+- vim-plug
 
 ### Compile Template
 ``` node
