@@ -34,7 +34,7 @@ shHereDoc: '' # shString
 shHerePayload: '' # shHereDoc
 shLoop: '' # shStatement
 shMoreSpecial: '' # shSpecial
-shOption: '' # shCommandSub
+shOption: 'Red' # shCommandSub
 shPattern: '' # shString
 shParen: '' # shArithmetic
 shPosnParm: '' # shShellVariables
