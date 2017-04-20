@@ -1,0 +1,6 @@
+ngxDirective: 'LightBlue'
+ngxDirectiveBlock: 'Blue'
+ngxBoolean: 'Green'
+ngxDirectiveImportant: 'Red'
+ngxDirectiveError: 'Red'
+ngxVariable: 'Green'

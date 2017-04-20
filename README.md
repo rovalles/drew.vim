@@ -9,6 +9,7 @@ drew.vim
 - https://github.com/jelera/vim-javascript-syntax
 - https://github.com/nathanaelkane/vim-indent-guides.git
 - https://github.com/kshenoy/vim-signature
+- https://github.com/vim-scripts/nginx.vim
 
 ### Support (For now. I think.)
 - Javascript
@@ -26,6 +27,7 @@ drew.vim
 - editorconfig
 - vim-startify
 - vim-plug
+- nginx
 
 ### Compile Template
 ``` node
