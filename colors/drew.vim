@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/04/20 11:00
+" Last Change: 2017/04/24 11:53
 " ===============================================================
 
 set background=dark
@@ -201,6 +201,7 @@ hi typescriptExceptions guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NON
 hi typescriptHtmlEvents guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptLogicSymbols guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptNumber guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi typescriptAjaxProperties guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SignColumn guifg=#000000 ctermfg=0 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SignatureMarkText guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi plug1 guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
