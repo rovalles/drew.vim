@@ -83,3 +83,5 @@ Todo: ''
 IndentGuidesOdd: 'Black MidBlack'
 #help
 helpCommand: 'Accent'
+#Custom
+ExtraWhitespace: 'SlightGray' #Match tabs

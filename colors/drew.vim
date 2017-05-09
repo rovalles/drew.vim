@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/04/24 11:53
+" Last Change: 2017/05/09 11:42
 " ===============================================================
 
 set background=dark
@@ -32,6 +32,7 @@ hi Statement guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi SpecialComment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IndentGuidesOdd guifg=#000000 ctermfg=0 guibg=#0A0A0A ctermbg=232 gui=NONE cterm=NONE
 hi helpCommand guifg=#607d8b ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi ExtraWhitespace guifg=#292929 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssDefinition guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssAttrRegion guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssVendor guifg=#bdbdbd ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
