@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/07/11 11:27
+" Last Change: 2017/07/31 10:27
 " ===============================================================
 
 set background=dark
@@ -78,6 +78,12 @@ hi gitconfigSection guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE c
 hi gitconfigVariable guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi gitconfigNumber guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi gitconfigBoolean guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitBranch guifg=#10dd10 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitHeader guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitSelectedFile guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitSelectedType guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitSummary guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitBlank guifg=#ffffff ctermfg=15 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi htmlTag guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlEndTag guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlArg guifg=#bbdefb ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
