@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2017/08/14 12:35
+" Last Change: 2017/09/11 13:29
 " ===============================================================
 
 set background=dark
@@ -16,6 +16,7 @@ let g:colors_name="drew"
 
 hi ColorColumn guifg=#757575 ctermfg=243 guibg=#131515 ctermbg=233 gui=NONE cterm=NONE
 hi Cursor guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi ErrorMsg guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LineNr guifg=#757575 ctermfg=243 guibg=#131515 ctermbg=233 gui=NONE cterm=NONE
 hi MatchParen guifg=#000000 ctermfg=0 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
@@ -27,6 +28,7 @@ hi SpecialKey guifg=#292929 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi SpellBad guifg=#ffffff ctermfg=15 guibg=#e11515 ctermbg=160 gui=NONE cterm=NONE
 hi SpellCap guifg=#ffffff ctermfg=15 guibg=#e11515 ctermbg=160 gui=NONE cterm=NONE
 hi Visual guifg=#000000 ctermfg=0 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
+hi WarningMsg guifg=#ffff99 ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#757575 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#ffff99 ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -139,6 +141,8 @@ hi markdownLinkText guifg=#1976d2 ctermfg=32 guibg=NONE ctermbg=NONE gui=NONE ct
 hi markdownUrl guifg=#ffff99 ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownCodeDelimiter guifg=#bdbdbd ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownCode guifg=#bdbdbd ctermfg=250 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NeomakeWarning gui=underline cterm=underline
+hi NeomakeError gui=underline cterm=underline
 hi NERDTreeExecFile guifg=#e11515 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDirSlash guifg=#2196f3 ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelp guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

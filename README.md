@@ -28,6 +28,7 @@ drew.vim
 - vim-startify
 - vim-plug
 - nginx
+- neomake
 
 ### Compile Template
 ``` node
