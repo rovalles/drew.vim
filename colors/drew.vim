@@ -4,7 +4,7 @@
 " URL: https://github.com/rovalles/drew.vim
 " Author: Rodolfo Ovalles
 " License: MIT
-" Last Change: 2021/01/03 19:55
+" Last Change: 2021/01/03 20:24
 " ===============================================================
 
 set background=dark
